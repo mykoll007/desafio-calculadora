@@ -62,9 +62,9 @@ let vitorias = 55;
 let derrotas = 20;
 console.log(calcularNivel(vitorias, derrotas));
 📤 Exemplo de Saída
-nginx
-Copiar código
+
 O Herói tem de saldo de 35 está no nível de Ouro
+
 🚀 Tecnologias Utilizadas
 JavaScript
 
